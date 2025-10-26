@@ -20,14 +20,14 @@ This project demonstrates:
 - View all previous feedback entries dynamically
   
 ##  Project Structure
-Employee_Feedback_Portal
+Employee_Feedback/
 │
-├── main.py # Flask application (backend logic)
-├── Dockerfile # Container configuration
-├── requirements.txt # Python dependencies
+├── main.py              # Flask application (backend logic)
+├── Dockerfile           # Container configuration
+├── requirements.txt     # Python dependencies
 ├── templates/
-│   └── index.html # Frontend template
-└── README.md # Project documentation
+│   └── index.html       # Frontend template
+└── README.md            # Project documentation
 
 ##  Technologies Used
 
