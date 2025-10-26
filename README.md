@@ -15,10 +15,10 @@ This project demonstrates:
 - Networking between Flask and PostgreSQL containers  
 
 **Employees can**:
-- Submit feedback with name, department,email, categoryand rating  
+- Submit feedback with name, department,email, category and rating  
 - Attach files (optional)  
 - View all previous feedback entries dynamically
-- 
+  
 ##  Project Structure
 Employee_Feedback_Portal
 │
@@ -26,7 +26,7 @@ Employee_Feedback_Portal
 ├── Dockerfile # Container configuration
 ├── requirements.txt # Python dependencies
 ├── templates/
-│ └── index.html # Frontend template
+│   └── index.html # Frontend template
 └── README.md # Project documentation
 
 ##  Technologies Used
@@ -40,9 +40,9 @@ Employee_Feedback_Portal
 | **Frontend**             | HTML, CSS, Bootstrap |
 | **Version Control**      | Git, GitHub |
 
-##  Database Setup
+#  Database Setup
 
-### 1️Create the Database
+## Create the Database
 Start PostgreSQL (either locally or using Docker) and create a database:
 ```sql
 CREATE DATABASE kartikidb;
