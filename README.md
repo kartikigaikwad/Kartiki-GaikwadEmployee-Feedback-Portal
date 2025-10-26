@@ -20,7 +20,8 @@ This project demonstrates:
 - View all previous feedback entries dynamically
   
 ##  Project Structure
-Employee_Feedback/
+
+Employee_Feedback_Portal/
 │
 ├── main.py              # Flask application (backend logic)
 ├── Dockerfile           # Container configuration
@@ -28,6 +29,7 @@ Employee_Feedback/
 ├── templates/
 │   └── index.html       # Frontend template
 └── README.md            # Project documentation
+
 
 ##  Technologies Used
 
